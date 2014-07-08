@@ -1,5 +1,5 @@
 {
-  "name": "hello-npm",
+  "name": "hello-npm-chai",
   "version": "0.0.1",
   "description": "Just learn to build first npm",
   "main": "index.js",
